@@ -3,10 +3,14 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
+title: fbirk blog
 email:
 description: A simple and awesome blog theme powered by jekyll.
+<<<<<<< HEAD
 url: https://renyuanz.github.io/leonids
+=======
+url: https://fbirk.github.io/homepage/
+>>>>>>> 37a23e8d0ef05a446e83c020fd244bc1aa049139
 keywords: ["blog", "jekyll"]
 
 #
@@ -14,7 +18,7 @@ keywords: ["blog", "jekyll"]
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Europe/Germany
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -33,11 +37,12 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: fbirk
   avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
+  job: "cs student"
+  bio: "My own small space in the web."
   email:
+<<<<<<< HEAD
   disqus-shortname:
   twitter: #username
   facebook: #username
@@ -73,3 +78,6 @@ owner:
 webrick:
   headers:
     Access-Control-Allow-Origin: "*"
+=======
+  github: fbirk
+>>>>>>> 37a23e8d0ef05a446e83c020fd244bc1aa049139
