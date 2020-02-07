@@ -6,11 +6,7 @@
 title: fbirk blog
 email:
 description: A simple and awesome blog theme powered by jekyll.
-<<<<<<< HEAD
-url: https://renyuanz.github.io/leonids
-=======
 url: https://fbirk.github.io/homepage/
->>>>>>> 37a23e8d0ef05a446e83c020fd244bc1aa049139
 keywords: ["blog", "jekyll"]
 
 #
@@ -42,42 +38,4 @@ owner:
   job: "cs student"
   bio: "My own small space in the web."
   email:
-<<<<<<< HEAD
-  disqus-shortname:
-  twitter: #username
-  facebook: #username
-  google:
-    plus: #username
-    analytics:
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
-  github: #username
-  gitlab: #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
-  skype: #username
-  xing: #username
-  instagram: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
-  500px: #username
-  codepen: #username
-  reddit: #username
-  telegram: #username
-
-webrick:
-  headers:
-    Access-Control-Allow-Origin: "*"
-=======
   github: fbirk
->>>>>>> 37a23e8d0ef05a446e83c020fd244bc1aa049139
